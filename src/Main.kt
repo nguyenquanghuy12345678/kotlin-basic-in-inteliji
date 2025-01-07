@@ -37,4 +37,6 @@ fun main() {
         println("Nhap so thu ${i+1}");
         so[i] = readln().toInt()
     }
+
+    println("ok");
 }
